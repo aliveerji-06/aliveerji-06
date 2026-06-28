@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ali Veerji
 
-<!--
-**aliveerji-06/aliveerji-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+- Java
+- Python
+- C
+- Git & GitHub
+
+🚀 Interested in
+- Software Development
+- Artificial Intelligence
+- Problem Solving
+- Open Source
+
+## Current Goal
+
+I'm building projects to improve my programming skills and contribute to open-source communities.
+
+## Languages
+
+- Java
+- Python
+- C
+
+Thanks for visiting my profile!
