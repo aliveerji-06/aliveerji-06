@@ -1,29 +1,20 @@
-# Hi there! 👋 I'm Ali Veerji
+# Hi, I'm Ali Veerji
+
+I'm a Computer Science student who enjoys learning new technologies and building projects that help me grow as a programmer. I'm interested in solving problems through code and am always looking for opportunities to improve my skills.
 
 ## About Me
 
-🎓 Computer Science Student
+I'm currently learning Java, Python, C, and Git & GitHub while exploring different areas of software development. My goal is to build technical skills, write clean and maintainable code, and gain experience by working on real-world projects and understanding the building process.
 
-💻 Currently learning:
-- Java
-- Python
-- C
-- Git & GitHub
+## Interests
 
-🚀 Interested in
-- Software Development
-- Artificial Intelligence
-- Problem Solving
-- Open Source
+* Software Development
+* Artificial Intelligence
+* Problem Solving
+* Open Source
 
 ## Current Goal
 
-I'm building projects to improve my programming skills and contribute to open-source communities.
+I'm focused on building projects that help me understand the fundamentals, strengthen my programming skills and prepare me for the real technical world in which I hope to make meaningful contributions.
 
-## Languages
-
-- Java
-- Python
-- C
-
-Thanks for visiting my profile!
+Thanks for stopping by. 
